@@ -1,11 +1,11 @@
 # learning egret
 
 ## Index
-1.[js如何调用ts?](#1)
-2.[ts如何调用js?](#2)
-3.[egret基础](#egret)
-4.[Q&A](#qa)
-5.[typescript基础](#ts)
+1. [js如何调用ts?](#1)
+2. [ts如何调用js?](#2)
+3. [egret基础](#egret)
+4. [Q&A](#qa)
+5. [typescript基础](#ts)
 
 -------------------------
 
